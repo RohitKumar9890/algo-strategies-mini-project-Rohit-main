@@ -1,0 +1,11 @@
+# Core
+python>=3.9
+
+# Notebooks
+jupyter>=1.0.0
+
+# Plotting
+matplotlib>=3.7.0
+
+# Utilities (optional but useful)
+numpy>=1.24.0
